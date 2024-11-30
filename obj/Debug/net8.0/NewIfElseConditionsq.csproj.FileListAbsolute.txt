@@ -1,0 +1,14 @@
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\NewIfElseConditionsq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\NewIfElseConditionsq.AssemblyInfoInputs.cache
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\NewIfElseConditionsq.AssemblyInfo.cs
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\NewIfElseConditionsq.csproj.CoreCompileInputs.cache
+C:\Users\armxture\source\repos\NewIfElseConditionsq\bin\Debug\net8.0\NewIfElseConditionsq.exe
+C:\Users\armxture\source\repos\NewIfElseConditionsq\bin\Debug\net8.0\NewIfElseConditionsq.deps.json
+C:\Users\armxture\source\repos\NewIfElseConditionsq\bin\Debug\net8.0\NewIfElseConditionsq.runtimeconfig.json
+C:\Users\armxture\source\repos\NewIfElseConditionsq\bin\Debug\net8.0\NewIfElseConditionsq.dll
+C:\Users\armxture\source\repos\NewIfElseConditionsq\bin\Debug\net8.0\NewIfElseConditionsq.pdb
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\NewIfElseConditionsq.dll
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\refint\NewIfElseConditionsq.dll
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\NewIfElseConditionsq.pdb
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\NewIfElseConditionsq.genruntimeconfig.cache
+C:\Users\armxture\source\repos\NewIfElseConditionsq\obj\Debug\net8.0\ref\NewIfElseConditionsq.dll
